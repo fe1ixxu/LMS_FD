@@ -4,7 +4,7 @@ LANG_PAIRS="eu-en,pt-en,bg-en,sk-en,zh-en,sl-en,de-en,hr-en,nb-en,ga-en,rw-en,as
 
 FREQ=1
 TEMPERATURE=5
-DATA_DIR=./data/opus-15
+DATA_DIR=./opus-15
 DATA_BIN=${DATA_DIR}/data-bin/
 SAVE_PATH=./checkpoint/OPUS_15_baseline
 ARCH=transformer

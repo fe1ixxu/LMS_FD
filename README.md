@@ -18,19 +18,21 @@ bash install.sh
 ## Download the Preprocessed Data
 One can download our preprocessed OPUS-100 dataset by running:
 ```
-gdown 
+gdown 1owwSARAf95EpiWz7PeTNu-kbQ3cuMCh4
+unzip opus-15.zip
 ```
 
 and download preprocessed OPUS-15 (the 15-language ablation study dataset selected from OPUS-100) by running:
 ```
-gdown
+gdown 1X-Zj2wcCdR2zpEYA-_CcaBGoEvF_6jNS
+unzip opus-100.zip
 ```
 ## Training & Evaluation
-To train the baseline MMT model on OPUS-100 and OPUS-15:
+To train the naive MMT model on OPUS-100:
 ```
 bash ./runs/train_opus_100_baseline.sh
 ```
-and
+and OPUS-15:
 ```
 bash ./runs/train_opus_15_baseline.sh
 ```

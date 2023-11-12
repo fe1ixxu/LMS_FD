@@ -9,7 +9,7 @@ LANG_PAIRS="es-en,en-es,fr-en,en-fr,ro-en,en-ro,nl-en,en-nl,cs-en,en-cs,el-en,en
 
 FREQ=4
 TEMPERATURE=5
-DATA_DIR=./data/opus-100
+DATA_DIR=./opus-100
 DATA_BIN=${DATA_DIR}/data-bin/
 SAVE_PATH=./checkpoint/OPUS_100_${LMS_TYPE}_rank_${LMS_RANK}_FFN
 MAX_UPDATES=100000
