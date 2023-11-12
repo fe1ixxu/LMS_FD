@@ -1,0 +1,11 @@
+defaults:
+  - default
+
+dataset_name: "flores200.ablation.v4.1"
+num_shards: 4
+langs_file: "examples/nllb/modeling/scripts/flores200_ablation/langs.txt"
+lang_pairs_file: "examples/nllb/modeling/scripts/flores200_ablation/lang_pairs.txt"
+data_prefix:
+  fair: /large_experiments/nllb/mmt/multilingual_bin/flores200.en_xx_en.v4.1.256k/data_bin
+  rsc: /checkpoint/nllb/data/flores200.en_xx_en.v4.1.256k/data_bin
+  azure: /data/nllb/flores200.en_xx_en.v4.1.256k/data_bin

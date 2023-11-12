@@ -1,0 +1,7 @@
+defaults:
+  - _self_
+
+eval_bleu: false
+# match beam size used in generation
+eval_bleu_args: '{"beam":4}'
+eval_bleu_print_samples: false

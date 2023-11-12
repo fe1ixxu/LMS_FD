@@ -1,0 +1,1034 @@
+{
+  "glg-eng": {
+    "m2m100": {
+      "src": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.en-gl.gl",
+      "tgt": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.en-gl.en"
+    }
+  },
+  "eng-glg": {
+    "m2m100": {
+      "src": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.en-gl.en",
+      "tgt": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.en-gl.gl"
+    }
+  },
+  "srp-eng": {
+    "m2m100": {
+      "src": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.en-sr.sr",
+      "tgt": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.en-sr.en"
+    }
+  },
+  "eng-srp": {
+    "m2m100": {
+      "src": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.en-sr.en",
+      "tgt": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.en-sr.sr"
+    }
+  },
+  "pol-eng": {
+    "m2m100": {
+      "src": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.en-pl.pl",
+      "tgt": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.en-pl.en"
+    }
+  },
+  "eng-pol": {
+    "m2m100": {
+      "src": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.en-pl.en",
+      "tgt": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.en-pl.pl"
+    }
+  },
+  "heb-eng": {
+    "m2m100": {
+      "src": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.en-he.he",
+      "tgt": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.en-he.en"
+    }
+  },
+  "eng-heb": {
+    "m2m100": {
+      "src": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.en-he.en",
+      "tgt": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.en-he.he"
+    }
+  },
+  "ben-eng": {
+    "m2m100": {
+      "src": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.bn-en.bn",
+      "tgt": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.bn-en.en"
+    }
+  },
+  "eng-ben": {
+    "m2m100": {
+      "src": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.bn-en.en",
+      "tgt": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.bn-en.bn"
+    }
+  },
+  "bos-eng": {
+    "m2m100": {
+      "src": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.bs-en.bs",
+      "tgt": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.bs-en.en"
+    }
+  },
+  "eng-bos": {
+    "m2m100": {
+      "src": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.bs-en.en",
+      "tgt": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.bs-en.bs"
+    }
+  },
+  "ful-eng": {
+    "m2m100": {
+      "src": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.en-ff.ff",
+      "tgt": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.en-ff.en"
+    }
+  },
+  "eng-ful": {
+    "m2m100": {
+      "src": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.en-ff.en",
+      "tgt": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.en-ff.ff"
+    }
+  },
+  "gle-eng": {
+    "m2m100": {
+      "src": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.en-ga.ga",
+      "tgt": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.en-ga.en"
+    }
+  },
+  "eng-gle": {
+    "m2m100": {
+      "src": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.en-ga.en",
+      "tgt": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.en-ga.ga"
+    }
+  },
+  "bel-eng": {
+    "m2m100": {
+      "src": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.be-en.be",
+      "tgt": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.be-en.en"
+    }
+  },
+  "eng-bel": {
+    "m2m100": {
+      "src": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.be-en.en",
+      "tgt": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.be-en.be"
+    }
+  },
+  "cat-eng": {
+    "m2m100": {
+      "src": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.ca-en.ca",
+      "tgt": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.ca-en.en"
+    }
+  },
+  "eng-cat": {
+    "m2m100": {
+      "src": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.ca-en.en",
+      "tgt": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.ca-en.ca"
+    }
+  },
+  "hye-eng": {
+    "m2m100": {
+      "src": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.en-hy.hy",
+      "tgt": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.en-hy.en"
+    }
+  },
+  "eng-hye": {
+    "m2m100": {
+      "src": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.en-hy.en",
+      "tgt": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.en-hy.hy"
+    }
+  },
+  "nob-eng": {
+    "m2m100": {
+      "src": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.en-no.no",
+      "tgt": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.en-no.en"
+    }
+  },
+  "eng-nob": {
+    "m2m100": {
+      "src": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.en-no.en",
+      "tgt": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.en-no.no"
+    }
+  },
+  "afr-eng": {
+    "m2m100": {
+      "src": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.af-en.af",
+      "tgt": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.af-en.en"
+    }
+  },
+  "eng-afr": {
+    "m2m100": {
+      "src": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.af-en.en",
+      "tgt": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.af-en.af"
+    }
+  },
+  "mkd-eng": {
+    "m2m100": {
+      "src": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.en-mk.mk",
+      "tgt": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.en-mk.en"
+    }
+  },
+  "eng-mkd": {
+    "m2m100": {
+      "src": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.en-mk.en",
+      "tgt": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.en-mk.mk"
+    }
+  },
+  "lao-eng": {
+    "m2m100": {
+      "src": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.en-lo.lo",
+      "tgt": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.en-lo.en"
+    }
+  },
+  "eng-lao": {
+    "m2m100": {
+      "src": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.en-lo.en",
+      "tgt": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.en-lo.lo"
+    }
+  },
+  "lav-eng": {
+    "m2m100": {
+      "src": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.en-lv.lv",
+      "tgt": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.en-lv.en"
+    }
+  },
+  "eng-lav": {
+    "m2m100": {
+      "src": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.en-lv.en",
+      "tgt": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.en-lv.lv"
+    }
+  },
+  "slv-eng": {
+    "m2m100": {
+      "src": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.en-sl.sl",
+      "tgt": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.en-sl.en"
+    }
+  },
+  "eng-slv": {
+    "m2m100": {
+      "src": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.en-sl.en",
+      "tgt": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.en-sl.sl"
+    }
+  },
+  "fra-eng": {
+    "m2m100": {
+      "src": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.en-fr.fr",
+      "tgt": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.en-fr.en"
+    }
+  },
+  "eng-fra": {
+    "m2m100": {
+      "src": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.en-fr.en",
+      "tgt": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.en-fr.fr"
+    }
+  },
+  "spa-eng": {
+    "m2m100": {
+      "src": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.en-es.es",
+      "tgt": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.en-es.en"
+    }
+  },
+  "eng-spa": {
+    "m2m100": {
+      "src": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.en-es.en",
+      "tgt": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.en-es.es"
+    }
+  },
+  "lug-eng": {
+    "m2m100": {
+      "src": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.en-lg.lg",
+      "tgt": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.en-lg.en"
+    }
+  },
+  "eng-lug": {
+    "m2m100": {
+      "src": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.en-lg.en",
+      "tgt": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.en-lg.lg"
+    }
+  },
+  "deu-eng": {
+    "m2m100": {
+      "src": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.de-en.de",
+      "tgt": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.de-en.en"
+    }
+  },
+  "eng-deu": {
+    "m2m100": {
+      "src": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.de-en.en",
+      "tgt": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.de-en.de"
+    }
+  },
+  "jpn-eng": {
+    "m2m100": {
+      "src": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.en-ja.ja",
+      "tgt": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.en-ja.en"
+    }
+  },
+  "eng-jpn": {
+    "m2m100": {
+      "src": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.en-ja.en",
+      "tgt": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.en-ja.ja"
+    }
+  },
+  "vie-eng": {
+    "m2m100": {
+      "src": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.en-vi.vi",
+      "tgt": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.en-vi.en"
+    }
+  },
+  "eng-vie": {
+    "m2m100": {
+      "src": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.en-vi.en",
+      "tgt": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.en-vi.vi"
+    }
+  },
+  "ind-eng": {
+    "m2m100": {
+      "src": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.en-id.id",
+      "tgt": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.en-id.en"
+    }
+  },
+  "eng-ind": {
+    "m2m100": {
+      "src": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.en-id.en",
+      "tgt": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.en-id.id"
+    }
+  },
+  "aze-eng": {
+    "m2m100": {
+      "src": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.az-en.az",
+      "tgt": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.az-en.en"
+    }
+  },
+  "eng-aze": {
+    "m2m100": {
+      "src": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.az-en.en",
+      "tgt": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.az-en.az"
+    }
+  },
+  "lit-eng": {
+    "m2m100": {
+      "src": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.en-lt.lt",
+      "tgt": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.en-lt.en"
+    }
+  },
+  "eng-lit": {
+    "m2m100": {
+      "src": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.en-lt.en",
+      "tgt": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.en-lt.lt"
+    }
+  },
+  "fin-eng": {
+    "m2m100": {
+      "src": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.en-fi.fi",
+      "tgt": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.en-fi.en"
+    }
+  },
+  "eng-fin": {
+    "m2m100": {
+      "src": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.en-fi.en",
+      "tgt": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.en-fi.fi"
+    }
+  },
+  "ces-eng": {
+    "m2m100": {
+      "src": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.cs-en.cs",
+      "tgt": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.cs-en.en"
+    }
+  },
+  "eng-ces": {
+    "m2m100": {
+      "src": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.cs-en.en",
+      "tgt": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.cs-en.cs"
+    }
+  },
+  "tha-eng": {
+    "m2m100": {
+      "src": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.en-th.th",
+      "tgt": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.en-th.en"
+    }
+  },
+  "eng-tha": {
+    "m2m100": {
+      "src": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.en-th.en",
+      "tgt": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.en-th.th"
+    }
+  },
+  "nld-eng": {
+    "m2m100": {
+      "src": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.en-nl.nl",
+      "tgt": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.en-nl.en"
+    }
+  },
+  "eng-nld": {
+    "m2m100": {
+      "src": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.en-nl.en",
+      "tgt": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.en-nl.nl"
+    }
+  },
+  "ukr-eng": {
+    "m2m100": {
+      "src": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.en-uk.uk",
+      "tgt": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.en-uk.en"
+    }
+  },
+  "eng-ukr": {
+    "m2m100": {
+      "src": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.en-uk.en",
+      "tgt": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.en-uk.uk"
+    }
+  },
+  "ell-eng": {
+    "m2m100": {
+      "src": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.el-en.el",
+      "tgt": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.el-en.en"
+    }
+  },
+  "eng-ell": {
+    "m2m100": {
+      "src": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.el-en.en",
+      "tgt": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.el-en.el"
+    }
+  },
+  "kat-eng": {
+    "m2m100": {
+      "src": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.en-ka.ka",
+      "tgt": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.en-ka.en"
+    }
+  },
+  "eng-kat": {
+    "m2m100": {
+      "src": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.en-ka.en",
+      "tgt": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.en-ka.ka"
+    }
+  },
+  "cym-eng": {
+    "m2m100": {
+      "src": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.cy-en.cy",
+      "tgt": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.cy-en.en"
+    }
+  },
+  "eng-cym": {
+    "m2m100": {
+      "src": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.cy-en.en",
+      "tgt": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.cy-en.cy"
+    }
+  },
+  "ron-eng": {
+    "m2m100": {
+      "src": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.en-ro.ro",
+      "tgt": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.en-ro.en"
+    }
+  },
+  "eng-ron": {
+    "m2m100": {
+      "src": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.en-ro.en",
+      "tgt": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.en-ro.ro"
+    }
+  },
+  "est-eng": {
+    "m2m100": {
+      "src": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.en-et.et",
+      "tgt": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.en-et.en"
+    }
+  },
+  "eng-est": {
+    "m2m100": {
+      "src": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.en-et.en",
+      "tgt": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.en-et.et"
+    }
+  },
+  "ast-eng": {
+    "m2m100": {
+      "src": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.ast-en.ast",
+      "tgt": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.ast-en.en"
+    }
+  },
+  "eng-ast": {
+    "m2m100": {
+      "src": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.ast-en.en",
+      "tgt": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.ast-en.ast"
+    }
+  },
+  "jav-eng": {
+    "m2m100": {
+      "src": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.en-jv.jv",
+      "tgt": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.en-jv.en"
+    }
+  },
+  "eng-jav": {
+    "m2m100": {
+      "src": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.en-jv.en",
+      "tgt": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.en-jv.jv"
+    }
+  },
+  "dan-eng": {
+    "m2m100": {
+      "src": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.da-en.da",
+      "tgt": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.da-en.en"
+    }
+  },
+  "eng-dan": {
+    "m2m100": {
+      "src": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.da-en.en",
+      "tgt": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.da-en.da"
+    }
+  },
+  "mya-eng": {
+    "m2m100": {
+      "src": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.en-my.my",
+      "tgt": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.en-my.en"
+    }
+  },
+  "eng-mya": {
+    "m2m100": {
+      "src": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.en-my.en",
+      "tgt": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.en-my.my"
+    }
+  },
+  "fas-eng": {
+    "m2m100": {
+      "src": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.en-fa.fa",
+      "tgt": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.en-fa.en"
+    }
+  },
+  "eng-fas": {
+    "m2m100": {
+      "src": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.en-fa.en",
+      "tgt": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.en-fa.fa"
+    }
+  },
+  "bul-eng": {
+    "m2m100": {
+      "src": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.bg-en.bg",
+      "tgt": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.bg-en.en"
+    }
+  },
+  "eng-bul": {
+    "m2m100": {
+      "src": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.bg-en.en",
+      "tgt": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.bg-en.bg"
+    }
+  },
+  "msa-eng": {
+    "m2m100": {
+      "src": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.en-ms.ms",
+      "tgt": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.en-ms.en"
+    }
+  },
+  "eng-msa": {
+    "m2m100": {
+      "src": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.en-ms.en",
+      "tgt": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.en-ms.ms"
+    }
+  },
+  "rus-eng": {
+    "m2m100": {
+      "src": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.en-ru.ru",
+      "tgt": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.en-ru.en"
+    }
+  },
+  "eng-rus": {
+    "m2m100": {
+      "src": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.en-ru.en",
+      "tgt": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.en-ru.ru"
+    }
+  },
+  "nso-eng": {
+    "m2m100": {
+      "src": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.en-ns.ns",
+      "tgt": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.en-ns.en"
+    }
+  },
+  "eng-nso": {
+    "m2m100": {
+      "src": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.en-ns.en",
+      "tgt": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.en-ns.ns"
+    }
+  },
+  "tgl-eng": {
+    "m2m100": {
+      "src": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.en-tl.tl",
+      "tgt": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.en-tl.en"
+    }
+  },
+  "eng-tgl": {
+    "m2m100": {
+      "src": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.en-tl.en",
+      "tgt": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.en-tl.tl"
+    }
+  },
+  "por-eng": {
+    "m2m100": {
+      "src": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.en-pt.pt",
+      "tgt": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.en-pt.en"
+    }
+  },
+  "eng-por": {
+    "m2m100": {
+      "src": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.en-pt.en",
+      "tgt": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.en-pt.pt"
+    }
+  },
+  "hun-eng": {
+    "m2m100": {
+      "src": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.en-hu.hu",
+      "tgt": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.en-hu.en"
+    }
+  },
+  "eng-hun": {
+    "m2m100": {
+      "src": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.en-hu.en",
+      "tgt": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.en-hu.hu"
+    }
+  },
+  "isl-eng": {
+    "m2m100": {
+      "src": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.en-is.is",
+      "tgt": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.en-is.en"
+    }
+  },
+  "eng-isl": {
+    "m2m100": {
+      "src": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.en-is.en",
+      "tgt": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.en-is.is"
+    }
+  },
+  "ita-eng": {
+    "m2m100": {
+      "src": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.en-it.it",
+      "tgt": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.en-it.en"
+    }
+  },
+  "eng-ita": {
+    "m2m100": {
+      "src": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.en-it.en",
+      "tgt": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.en-it.it"
+    }
+  },
+  "kaz-eng": {
+    "m2m100": {
+      "src": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.en-kk.kk",
+      "tgt": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.en-kk.en"
+    }
+  },
+  "eng-kaz": {
+    "m2m100": {
+      "src": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.en-kk.en",
+      "tgt": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.en-kk.kk"
+    }
+  },
+  "slk-eng": {
+    "m2m100": {
+      "src": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.en-sk.sk",
+      "tgt": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.en-sk.en"
+    }
+  },
+  "eng-slk": {
+    "m2m100": {
+      "src": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.en-sk.en",
+      "tgt": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.en-sk.sk"
+    }
+  },
+  "ara-eng": {
+    "m2m100": {
+      "src": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.ar-en.ar",
+      "tgt": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.ar-en.en"
+    }
+  },
+  "eng-ara": {
+    "m2m100": {
+      "src": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.ar-en.en",
+      "tgt": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.ar-en.ar"
+    }
+  },
+  "tur-eng": {
+    "m2m100": {
+      "src": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.en-tr.tr",
+      "tgt": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.en-tr.en"
+    }
+  },
+  "eng-tur": {
+    "m2m100": {
+      "src": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.en-tr.en",
+      "tgt": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.en-tr.tr"
+    }
+  },
+  "oci-eng": {
+    "m2m100": {
+      "src": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.en-oc.oc",
+      "tgt": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.en-oc.en"
+    }
+  },
+  "eng-oci": {
+    "m2m100": {
+      "src": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.en-oc.en",
+      "tgt": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.en-oc.oc"
+    }
+  },
+  "ceb-eng": {
+    "m2m100": {
+      "src": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.ceb-en.ceb",
+      "tgt": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.ceb-en.en"
+    }
+  },
+  "eng-ceb": {
+    "m2m100": {
+      "src": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.ceb-en.en",
+      "tgt": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.ceb-en.ceb"
+    }
+  },
+  "hin-eng": {
+    "m2m100": {
+      "src": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.en-hi.hi",
+      "tgt": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.en-hi.en"
+    }
+  },
+  "eng-hin": {
+    "m2m100": {
+      "src": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.en-hi.en",
+      "tgt": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.en-hi.hi"
+    }
+  },
+  "mon-eng": {
+    "m2m100": {
+      "src": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.en-mn.mn",
+      "tgt": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.en-mn.en"
+    }
+  },
+  "eng-mon": {
+    "m2m100": {
+      "src": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.en-mn.en",
+      "tgt": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.en-mn.mn"
+    }
+  },
+  "ltz-eng": {
+    "m2m100": {
+      "src": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.en-lb.lb",
+      "tgt": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.en-lb.en"
+    }
+  },
+  "eng-ltz": {
+    "m2m100": {
+      "src": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.en-lb.en",
+      "tgt": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.en-lb.lb"
+    }
+  },
+  "kor-eng": {
+    "m2m100": {
+      "src": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.en-ko.ko",
+      "tgt": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.en-ko.en"
+    }
+  },
+  "eng-kor": {
+    "m2m100": {
+      "src": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.en-ko.en",
+      "tgt": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.en-ko.ko"
+    }
+  },
+  "swe-eng": {
+    "m2m100": {
+      "src": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.en-sv.sv",
+      "tgt": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.en-sv.en"
+    }
+  },
+  "eng-swe": {
+    "m2m100": {
+      "src": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.en-sv.en",
+      "tgt": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.en-sv.sv"
+    }
+  },
+  "hrv-eng": {
+    "m2m100": {
+      "src": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.en-hr.hr",
+      "tgt": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.en-hr.en"
+    }
+  },
+  "eng-hrv": {
+    "m2m100": {
+      "src": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.en-hr.en",
+      "tgt": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.en-hr.hr"
+    }
+  },
+  "zho-eng": {
+    "m2m100": {
+      "src": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.en-zh.zh",
+      "tgt": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.en-zh.en"
+    }
+  },
+  "eng-zho": {
+    "m2m100": {
+      "src": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.en-zh.en",
+      "tgt": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.en-zh.zh"
+    }
+  },
+  "snd-eng": {
+    "m2m100": {
+      "src": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.en-sd.sd",
+      "tgt": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.en-sd.en"
+    }
+  },
+  "eng-snd": {
+    "m2m100": {
+      "src": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.en-sd.en",
+      "tgt": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.en-sd.sd"
+    }
+  },
+  "pus-eng": {
+    "m2m100": {
+      "src": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.en-ps.ps",
+      "tgt": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.en-ps.en"
+    }
+  },
+  "eng-pus": {
+    "m2m100": {
+      "src": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.en-ps.en",
+      "tgt": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.en-ps.ps"
+    }
+  },
+  "khm-eng": {
+    "m2m100": {
+      "src": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.en-km.km",
+      "tgt": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.en-km.en"
+    }
+  },
+  "eng-khm": {
+    "m2m100": {
+      "src": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.en-km.en",
+      "tgt": "/checkpoint/angelafan/data/cc100_multilingual/raw_pre_spm/train.en-km.km"
+    }
+  },
+  "guj-eng": {
+    "mining_jul21": {
+      "src": "/checkpoint/vishrav/mmt/bitexts_v1/train.guj-eng.guj",
+      "tgt": "/checkpoint/vishrav/mmt/bitexts_v1/train.guj-eng.eng"
+    }
+  },
+  "eng-guj": {
+    "mining_jul21": {
+      "src": "/checkpoint/vishrav/mmt/bitexts_v1/train.guj-eng.eng",
+      "tgt": "/checkpoint/vishrav/mmt/bitexts_v1/train.guj-eng.guj"
+    }
+  },
+  "yor-eng": {
+    "mining_jul21": {
+      "src": "/checkpoint/vishrav/mmt/bitexts_v1/train.yor-eng.yor",
+      "tgt": "/checkpoint/vishrav/mmt/bitexts_v1/train.yor-eng.eng"
+    }
+  },
+  "eng-yor": {
+    "mining_jul21": {
+      "src": "/checkpoint/vishrav/mmt/bitexts_v1/train.yor-eng.eng",
+      "tgt": "/checkpoint/vishrav/mmt/bitexts_v1/train.yor-eng.yor"
+    }
+  },
+  "wol-eng": {
+    "mining_jul21": {
+      "src": "/checkpoint/vishrav/mmt/bitexts_v1/train.wol-eng.wol",
+      "tgt": "/checkpoint/vishrav/mmt/bitexts_v1/train.wol-eng.eng"
+    }
+  },
+  "eng-wol": {
+    "mining_jul21": {
+      "src": "/checkpoint/vishrav/mmt/bitexts_v1/train.wol-eng.eng",
+      "tgt": "/checkpoint/vishrav/mmt/bitexts_v1/train.wol-eng.wol"
+    }
+  },
+  "tel-eng": {
+    "mining_jul21": {
+      "src": "/checkpoint/vishrav/mmt/bitexts_v1/train.tel-eng.tel",
+      "tgt": "/checkpoint/vishrav/mmt/bitexts_v1/train.tel-eng.eng"
+    }
+  },
+  "eng-tel": {
+    "mining_jul21": {
+      "src": "/checkpoint/vishrav/mmt/bitexts_v1/train.tel-eng.eng",
+      "tgt": "/checkpoint/vishrav/mmt/bitexts_v1/train.tel-eng.tel"
+    }
+  },
+  "zul-eng": {
+    "mining_jul21": {
+      "src": "/checkpoint/vishrav/mmt/bitexts_v1/train.zul-eng.zul",
+      "tgt": "/checkpoint/vishrav/mmt/bitexts_v1/train.zul-eng.eng"
+    }
+  },
+  "eng-zul": {
+    "mining_jul21": {
+      "src": "/checkpoint/vishrav/mmt/bitexts_v1/train.zul-eng.eng",
+      "tgt": "/checkpoint/vishrav/mmt/bitexts_v1/train.zul-eng.zul"
+    }
+  },
+  "kan-eng": {
+    "mining_jul21": {
+      "src": "/checkpoint/vishrav/mmt/bitexts_v1/train.kan-eng.kan",
+      "tgt": "/checkpoint/vishrav/mmt/bitexts_v1/train.kan-eng.eng"
+    }
+  },
+  "eng-kan": {
+    "mining_jul21": {
+      "src": "/checkpoint/vishrav/mmt/bitexts_v1/train.kan-eng.eng",
+      "tgt": "/checkpoint/vishrav/mmt/bitexts_v1/train.kan-eng.kan"
+    }
+  },
+  "pan-eng": {
+    "mining_jul21": {
+      "src": "/checkpoint/vishrav/mmt/bitexts_v1/train.pan-eng.pan",
+      "tgt": "/checkpoint/vishrav/mmt/bitexts_v1/train.pan-eng.eng"
+    }
+  },
+  "eng-pan": {
+    "mining_jul21": {
+      "src": "/checkpoint/vishrav/mmt/bitexts_v1/train.pan-eng.eng",
+      "tgt": "/checkpoint/vishrav/mmt/bitexts_v1/train.pan-eng.pan"
+    }
+  },
+  "ory-eng": {
+    "mining_jul21": {
+      "src": "/checkpoint/vishrav/mmt/bitexts_v1/train.ory-eng.ory",
+      "tgt": "/checkpoint/vishrav/mmt/bitexts_v1/train.ory-eng.eng"
+    }
+  },
+  "eng-ory": {
+    "mining_jul21": {
+      "src": "/checkpoint/vishrav/mmt/bitexts_v1/train.ory-eng.eng",
+      "tgt": "/checkpoint/vishrav/mmt/bitexts_v1/train.ory-eng.ory"
+    }
+  },
+  "xho-eng": {
+    "mining_jul21": {
+      "src": "/checkpoint/vishrav/mmt/bitexts_v1/train.xho-eng.xho",
+      "tgt": "/checkpoint/vishrav/mmt/bitexts_v1/train.xho-eng.eng"
+    }
+  },
+  "eng-xho": {
+    "mining_jul21": {
+      "src": "/checkpoint/vishrav/mmt/bitexts_v1/train.xho-eng.eng",
+      "tgt": "/checkpoint/vishrav/mmt/bitexts_v1/train.xho-eng.xho"
+    }
+  },
+  "hau-eng": {
+    "mining_jul21": {
+      "src": "/checkpoint/vishrav/mmt/bitexts_v1/train.hau-eng.hau",
+      "tgt": "/checkpoint/vishrav/mmt/bitexts_v1/train.hau-eng.eng"
+    }
+  },
+  "eng-hau": {
+    "mining_jul21": {
+      "src": "/checkpoint/vishrav/mmt/bitexts_v1/train.hau-eng.eng",
+      "tgt": "/checkpoint/vishrav/mmt/bitexts_v1/train.hau-eng.hau"
+    }
+  },
+  "amh-eng": {
+    "mining_jul21": {
+      "src": "/checkpoint/vishrav/mmt/bitexts_v1/train.amh-eng.amh",
+      "tgt": "/checkpoint/vishrav/mmt/bitexts_v1/train.amh-eng.eng"
+    }
+  },
+  "eng-amh": {
+    "mining_jul21": {
+      "src": "/checkpoint/vishrav/mmt/bitexts_v1/train.amh-eng.eng",
+      "tgt": "/checkpoint/vishrav/mmt/bitexts_v1/train.amh-eng.amh"
+    }
+  },
+  "urd-eng": {
+    "mining_jul21": {
+      "src": "/checkpoint/vishrav/mmt/bitexts_v1/train.urd-eng.urd",
+      "tgt": "/checkpoint/vishrav/mmt/bitexts_v1/train.urd-eng.eng"
+    }
+  },
+  "eng-urd": {
+    "mining_jul21": {
+      "src": "/checkpoint/vishrav/mmt/bitexts_v1/train.urd-eng.eng",
+      "tgt": "/checkpoint/vishrav/mmt/bitexts_v1/train.urd-eng.urd"
+    }
+  },
+  "ibo-eng": {
+    "mining_jul21": {
+      "src": "/checkpoint/vishrav/mmt/bitexts_v1/train.ibo-eng.ibo",
+      "tgt": "/checkpoint/vishrav/mmt/bitexts_v1/train.ibo-eng.eng"
+    }
+  },
+  "eng-ibo": {
+    "mining_jul21": {
+      "src": "/checkpoint/vishrav/mmt/bitexts_v1/train.ibo-eng.eng",
+      "tgt": "/checkpoint/vishrav/mmt/bitexts_v1/train.ibo-eng.ibo"
+    }
+  },
+  "lin-eng": {
+    "mining_jul21": {
+      "src": "/checkpoint/vishrav/mmt/bitexts_v1/train.lin-eng.lin",
+      "tgt": "/checkpoint/vishrav/mmt/bitexts_v1/train.lin-eng.eng"
+    }
+  },
+  "eng-lin": {
+    "mining_jul21": {
+      "src": "/checkpoint/vishrav/mmt/bitexts_v1/train.lin-eng.eng",
+      "tgt": "/checkpoint/vishrav/mmt/bitexts_v1/train.lin-eng.lin"
+    }
+  },
+  "mal-eng": {
+    "mining_jul21": {
+      "src": "/checkpoint/vishrav/mmt/bitexts_v1/train.mal-eng.mal",
+      "tgt": "/checkpoint/vishrav/mmt/bitexts_v1/train.mal-eng.eng"
+    }
+  },
+  "eng-mal": {
+    "mining_jul21": {
+      "src": "/checkpoint/vishrav/mmt/bitexts_v1/train.mal-eng.eng",
+      "tgt": "/checkpoint/vishrav/mmt/bitexts_v1/train.mal-eng.mal"
+    }
+  },
+  "npi-eng": {
+    "mining_jul21": {
+      "src": "/checkpoint/vishrav/mmt/bitexts_v1/train.npi-eng.npi",
+      "tgt": "/checkpoint/vishrav/mmt/bitexts_v1/train.npi-eng.eng"
+    }
+  },
+  "eng-npi": {
+    "mining_jul21": {
+      "src": "/checkpoint/vishrav/mmt/bitexts_v1/train.npi-eng.eng",
+      "tgt": "/checkpoint/vishrav/mmt/bitexts_v1/train.npi-eng.npi"
+    }
+  },
+  "swh-eng": {
+    "mining_jul21": {
+      "src": "/checkpoint/vishrav/mmt/bitexts_v1/train.swh-eng.swh",
+      "tgt": "/checkpoint/vishrav/mmt/bitexts_v1/train.swh-eng.eng"
+    }
+  },
+  "eng-swh": {
+    "mining_jul21": {
+      "src": "/checkpoint/vishrav/mmt/bitexts_v1/train.swh-eng.eng",
+      "tgt": "/checkpoint/vishrav/mmt/bitexts_v1/train.swh-eng.swh"
+    }
+  },
+  "tam-eng": {
+    "mining_jul21": {
+      "src": "/checkpoint/vishrav/mmt/bitexts_v1/train.tam-eng.tam",
+      "tgt": "/checkpoint/vishrav/mmt/bitexts_v1/train.tam-eng.eng"
+    }
+  },
+  "eng-tam": {
+    "mining_jul21": {
+      "src": "/checkpoint/vishrav/mmt/bitexts_v1/train.tam-eng.eng",
+      "tgt": "/checkpoint/vishrav/mmt/bitexts_v1/train.tam-eng.tam"
+    }
+  },
+  "som-eng": {
+    "mining_jul21": {
+      "src": "/checkpoint/vishrav/mmt/bitexts_v1/train.som-eng.som",
+      "tgt": "/checkpoint/vishrav/mmt/bitexts_v1/train.som-eng.eng"
+    }
+  },
+  "eng-som": {
+    "mining_jul21": {
+      "src": "/checkpoint/vishrav/mmt/bitexts_v1/train.som-eng.eng",
+      "tgt": "/checkpoint/vishrav/mmt/bitexts_v1/train.som-eng.som"
+    }
+  },
+  "mar-eng": {
+    "mining_jul21": {
+      "src": "/checkpoint/vishrav/mmt/bitexts_v1/train.mar-eng.mar",
+      "tgt": "/checkpoint/vishrav/mmt/bitexts_v1/train.mar-eng.eng"
+    }
+  },
+  "eng-mar": {
+    "mining_jul21": {
+      "src": "/checkpoint/vishrav/mmt/bitexts_v1/train.mar-eng.eng",
+      "tgt": "/checkpoint/vishrav/mmt/bitexts_v1/train.mar-eng.mar"
+    }
+  }
+}

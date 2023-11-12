@@ -1,0 +1,8 @@
+name: rsc
+data_dir: /checkpoint/nllb/data
+partition: learn
+constraint:
+flores_path: /checkpoint/nllb/data/flores200/
+non_flores_path: /checkpoint/nllb/data/non_flores_evaluation_data
+memory_multiplier: 0
+timeout_min: 2000

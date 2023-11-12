@@ -1,0 +1,5 @@
+cluster_name: fair
+partition: learnaccel
+memory_multiplier: 50
+timeout_min: 1000
+constraint: null

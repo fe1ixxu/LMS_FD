@@ -1,0 +1,8 @@
+name: azure
+data_dir: /data/nllb/nllb
+partition: hpc
+constraint:
+flores_path: /data/nllb/nllb/flores200_final
+non_flores_path:  /data/nllb/non_flores_evaluation_data
+memory_multiplier: 0
+timeout_min: 1000

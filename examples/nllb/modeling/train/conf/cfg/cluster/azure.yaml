@@ -1,0 +1,5 @@
+cluster_name: azure
+partition: nllb,learnaccel,learnfair
+memory_multiplier: 0
+timeout_min: 1000
+constraint: null

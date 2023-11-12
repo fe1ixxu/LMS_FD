@@ -1,0 +1,11 @@
+defaults:
+  - default
+
+dataset_name: "fbseed_chat"
+num_shards: 1
+langs_file: "examples/nllb/modeling/scripts/flores200/langs.txt"
+lang_pairs: "eng_Latn-wol_Latn"
+data_prefix:
+  fair: /large_experiments/nllb/mmt/multilingual_bin/non_flores_v4.2/fbseed_chat/data_bin
+  rsc: /checkpoint/nllb/data/fbseed_chat/data_bin
+  azure: /data/nllb/non_flores_v4.2/fbseed_chat/data_bin
